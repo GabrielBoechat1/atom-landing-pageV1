@@ -13,4 +13,48 @@
 }
 body {
   margin: 0px;
+  background: var(--bg-color);
+  font-family: "Inria Sans", sans-serif;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.gap932px {
+  gap: 932px;
+}
+.gap20 {
+  gap: 20px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+/* Header */
+.header {
+  padding: 15px 200px 15px 200px;
+  background: var(--nav-bg);
+  border-bottom: 3px solid var(--nav-stroke-color);
+}
+.log-regi {
+  margin: 0 0 0 auto;
+}
+.btn {
+  padding: 10px 42px;
+  border-radius: 7px;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+.btn-primary-color {
+  background: var(--btn-primary-bg-color);
+  color: var(--btn-primary-color);
+}
+.btn-secondary-color {
+  background: var(--btn-secondary-bg-color);
+  color: var(--btn-secondary-color);
+}
+.atom {
+  width: 69px;
+  height: 75px;
 }
