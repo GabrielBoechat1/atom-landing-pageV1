@@ -1,0 +1,16 @@
+/* Config geral */
+:root {
+  --txt-primary-color: #000;
+  --btn-primary-color: #172c38;
+  --btn-secondary-color: #ffff;
+  --btn-primary-bg-color: #cdcdcd;
+  --btn-secondary-bg-color: #a073ff;
+  --nav-bg: #dedede;
+  --nav-stroke-color: #9a9a9a;
+  --wave-color: #ececec;
+  --copyright-color: #999999;
+  --bg-color: #f3f3f3;
+}
+body {
+  margin: 0px;
+}
