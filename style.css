@@ -28,7 +28,7 @@ img {
 .flex {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 /* Header */
@@ -36,9 +36,6 @@ img {
   padding: 15px 200px 15px 200px;
   background: var(--nav-bg);
   border-bottom: 3px solid var(--nav-stroke-color);
-}
-.log-regi {
-  margin: 0 0 0 auto;
 }
 .btn {
   padding: 10px 42px;
